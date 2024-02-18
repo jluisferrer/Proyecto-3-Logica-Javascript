@@ -10,7 +10,8 @@
 
 
 <h2>Tecnologías utilizadas :heavy_check_mark:</h2><br>
--Javascript
+![Static Badge](https://img.shields.io/badge/Javascript%20-%20F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+
 
 
 <h2>Features 👀</h2>
