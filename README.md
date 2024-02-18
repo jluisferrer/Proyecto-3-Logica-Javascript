@@ -1,4 +1,4 @@
-![Javascript](https://github.com/jluisferrer/Proyecto-3/assets/157707370/856fd780-bcdc-4bcf-ab30-15956c0597aa)<h1 align="center"> Proyecto lógica Javascipt 🥟 </h1>
+<h1 align="center"> Proyecto lógica Javascipt 🥟 </h1>
 
 
 *[Lógica Javascript](#Título-e-imagen-de-portada)<br>
@@ -12,7 +12,7 @@
 
 
 <h2>Tecnologías utilizadas :heavy_check_mark:</h2><br>
-![Uploading Javascript.svg…<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126.5" height="28" role="img" aria-label="JAVASCRIPT"><title>JAVASCRIPT</title><g shape-rendering="crispEdges"><rect width="126.5" height="28" fill="#f7df1e"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNTUzM8L3RpdGxlPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4="/><text transform="scale(.1)" x="732.5" y="175" textLength="825" fill="#333" font-weight="bold">JAVASCRIPT</text></g></svg>]()
+![Javascript](https://github.com/jluisferrer/Proyecto-3/assets/157707370/856fd780-bcdc-4bcf-ab30-15956c0597aa)
 
 
 <h2>Features 👀</h2>
