@@ -12,7 +12,7 @@
 
 
 <h2>Tecnologías utilizadas :heavy_check_mark:</h2><br>
-![Javascript](https://github.com/jluisferrer/Proyecto-3/assets/157707370/856fd780-bcdc-4bcf-ab30-15956c0597aa)
+(https://github.com/jluisferrer/Proyecto-3/assets/157707370/856fd780-bcdc-4bcf-ab30-15956c0597aa)
 
 
 <h2>Features 👀</h2>
